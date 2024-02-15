@@ -1,3 +1,2 @@
 # Latihan membuat branch
-
-Ini isinya beda sama yang development
+Github itu asyik bangetz
